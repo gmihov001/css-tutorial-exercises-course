@@ -1,4 +1,4 @@
-# `04.1` Reglas Combinadas
+# `04.1` Propiedades de Taquigrafía CSS
 
 Los archivos CSS ocupan espacio en tu servidor y también tardan en descargarse (como todo); es otro documento de texto que el navegador debe descargar antes de mostrar la página, por lo que es importante mantener el documento CSS lo más pequeño posible.
 
@@ -19,8 +19,8 @@ border: black 1px solid;
 # 📝 Instrucciones:
 
 
-1. Combina las 4 reglas de padding una sola utilizando la regla "padding".
-2. Combina todas las reglas de background, menos el background size, en una sola línea usando la regla "background:".
+1. Combina las 4 propiedades de padding una sola utilizando la propiedad "padding".
+2. Combina todas las propiedades de background, menos el background size, en una sola línea usando la propiedad "background:".
 
 
 *Nota:**
