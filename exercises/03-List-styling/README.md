@@ -2,7 +2,7 @@
 tutorial: "https://www.youtube.com/watch?v=jIMPLzpryuI"
 ---
 
-# `03` List styling
+# `03` List Styling
 
 In the front end we often have to list items and the way to do that is with `<ul>` tags, for unordered (bulleted) lists, and `<ol>` tags for ordered (numbered) lists.  
 
