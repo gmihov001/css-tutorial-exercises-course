@@ -4,7 +4,7 @@ tutorial: "https://www.youtube.com/watch?v=jIMPLzpryuI"
 
 # `03` List styling
 
-In the front end we often have to list items and the way to do that is with `<ul>` tags, for unordered/bulleted lists, and `<ol>` tags for ordered/numbered lists.  
+In the front end we often have to list items and the way to do that is with `<ul>` tags, for unordered (bulleted) lists, and `<ol>` tags for ordered (numbered) lists.  
 
 We have CSS control over what these lists look like, what bullets or numbers they use, etc.
 
@@ -18,12 +18,12 @@ For example:
     }
 ```
 
-Will remove the numbers or bullets and will move the text to the left so there is no empty space where the bullets once were.
+This css rule selects all `ul` tags, removes the numbers/bullets from the list items, and moves the text to the left so there is no empty space where the bullets once were.
 
 **Note:** 
 
-Build the existing code first to see what the page originally looks like.
-Then make the changes below and build again.  
+- Build the existing code first to see what the page originally looks like.
+- Then make the changes below and build again.  
 
 ## 📝 Instructions:
 
@@ -36,5 +36,7 @@ Then make the changes below and build again.
 ### 💡 Hint:
 
 - How to work with CSS list styles: https://www.w3schools.com/css/css_list.asp
+
 - Changing bullets into numbers and vice versa means that you would need to change the type of list - ordered or unordered. Changes in the html tags may be necessary. 
+
 - `armenian` is an actual possible value of `list-style-type`: https://www.w3schools.com/cssref/pr_list-style-type.asp
