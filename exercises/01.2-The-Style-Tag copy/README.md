@@ -23,7 +23,7 @@ You can have as many style tags as you want but it is recomended to have only on
 
 ### 💡 Hint
 
-- Remember that you will need the complete html structure of the page, because the `style` tags need to go inside of the `head` tags.
+- Remember that you will need to complete html structure of the page, because the `style` tags need to go inside of the `head` tags.
 
 - You can learn more about the different measurement units in CSS here:
 https://www.w3schools.com/cssref/css_units.asp
