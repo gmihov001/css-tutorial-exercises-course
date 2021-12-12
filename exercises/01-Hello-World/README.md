@@ -17,8 +17,8 @@ In contemporary web design this way of applying styles is **discouraged**, becau
 
 To apply styles you always have to follow thеse steps:
 
-1. Read the HTML and pick what element you want to decorate to apply CSS to it.
-2. Apply the style with the `style` attribute as above. 
+1. Read the HTML and pick which element you want to decorate, so you can apply CSS to it.
+2. Apply the CSS style inline with the `style` attribute as above. 
 
 That is it! The rest is just semantics! 😁
 
