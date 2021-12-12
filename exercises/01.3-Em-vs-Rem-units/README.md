@@ -2,7 +2,7 @@
 tutorial: "https://www.youtube.com/watch?v=8b12AFC6bWs"
 ---
 
-# `01.2` Your First Style
+# `01.3` Em vs Rem Units
 
 When doing CSS, the idea is to apply `CSS rules` to your html elements (i.e. tags), you always have to select the element first, and then specify what rules you want to apply to it
 
@@ -20,7 +20,8 @@ a {
 
 1. Right now there is a style being applied that is responsible of making the anchor (link) red.
 2. Change the style to make your anchor text yellow.
-3. Make the font (text) twice its original size - use the `em` units. 
+3. Make the font (text) twice its original size - use the `em` units.
+4. Give the `body` tag padding of `2rem`. 
 
 ### 💡 Hint
 
