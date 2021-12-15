@@ -31,5 +31,9 @@ In the following example, a div with `id='thirditem'` will end up having blue ba
 
 Use the id as a selector.
 
+There are cases in which you can use the **!important** annotation:
+https://css-tricks.com/when-using-important-is-the-right-choice/
+
+However most of the time that is not the best approach. 
 
 

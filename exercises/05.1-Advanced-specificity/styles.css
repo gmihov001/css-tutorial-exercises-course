@@ -1,0 +1,12 @@
+ul li {
+	background: blue;
+}
+
+ul #thirditem {
+	background: red;
+} 
+
+#thirditem {
+	background: yellow;
+} 
+/****** DON NOT EDIT ANYTHING ABOVE THIS LINE ****/
