@@ -2,7 +2,7 @@
 tutorial: "https://www.youtube.com/watch?v=3JxXkhxyAnI"
 ---
 
-# `05.2` Advanced Specificity
+# `05.1` Advanced Specificity
 
 You can think of the weight of every selector in term of numbers:
 
@@ -10,27 +10,25 @@ You can think of the weight of every selector in term of numbers:
 - a class selector (like `.someclass`) has weight of 10 points
 - an id selector (like `#thirditem`) has weight of 100 points
 
-In advanced selectors, the points cumulate. Therefore:
+In advanced selectors, the points cumulate. Therefore in the example below, the selector `#myItem` carries 100 points specificity, while the selector `div #myItem` carries 101 points specificity and will override the lower rule.
 
 ```css
-    div {
+    div #myItem {  
         min-width: 20vw;
     }
 
-    div 
+    #myItem {
+        min-width: 30vw;
+    }
 ```
 
 
 ## 📝 Instructions:
 
-1. Override the `background-color` of `#thirditem` without deleting any css code. Simply add to your css a more specific rule at the end of the document to override `background-color` to `green`.
+1. Override the `color` property of the element with id `fastest` without deleting any css code. You can only add a new rule at the beginning of the CSS document to override the `color` to `red`.
 
 
 ### 💡 Hint:
 
-There are cases in which you can use the **!important** annotation:
-https://css-tricks.com/when-using-important-is-the-right-choice/
-
-However most of the time that is not the best approach. 
-
+Remember to use higher specificity that the existing rules. The more selectors you combine the higher the specificity gets, because each selector adds additional points to your rule.  
 
