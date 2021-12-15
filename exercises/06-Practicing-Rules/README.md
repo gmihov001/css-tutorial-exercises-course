@@ -15,14 +15,14 @@ tutorial: "https://www.youtube.com/watch?v=4wguurrl-lU"
 
 3. Change the color of `h1` to `red`.
 
-4. Make all the `h2's` with an `underline`.
+4. Make all the `h2s` have an `underline`.
 
 5. Center the `h1` to the middle.
 
 6. Add a `left padding` to the whole document
    of `20px` to make it easier to read.
 
-7. Add a white `semi-transparent background (0.2)` to the `first paragraph` to make it easier to read (you have tu use rgba for that) and write down "3 reasons you know you are learning". Then apply a `padding` of `5px` to all sides of that paragraph.
+7. Add a white ***semi-transparent*** background to the **first paragraph** to make it easier to read (see **Hint**). Then apply a `padding` of `5px` to all sides of that paragraph.
 
 8. Change the `anchor` "hover" color to `green` and remove the underline (you have to actually hover the anchor to test it).
 
@@ -30,3 +30,11 @@ tutorial: "https://www.youtube.com/watch?v=4wguurrl-lU"
 ## The result should be something like this:
 
 ![Example Image](../../.learn/assets/06-1.png?raw=true)
+
+### 💡 Hint:
+
+To achieve transparency of your background you need to use the RGBA color model in which the last value (alpha) should be **0.2**. 
+
+The alpha value in RGBA affects the opacity of the color. 
+
+https://www.w3schools.com/css/css_colors_rgb.asp

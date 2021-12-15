@@ -1,7 +1,12 @@
 ul li {
+	color: white;
 	background: blue;
 	font-size: 1.6em;
 	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
-/****** DON NOT EDIT ANYTHING ABOVE THIS LINE ****/
+#thirditem {
+	background: green;
+}
+
+/****** EDIT ONLY THE EXISTING CODE ABOVE THIS LINE ****/
