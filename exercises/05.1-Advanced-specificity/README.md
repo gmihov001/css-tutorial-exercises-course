@@ -30,5 +30,7 @@ In advanced selectors, the points cumulate. Therefore in the example below, the 
 
 ### 💡 Hint:
 
-Remember to use higher specificity that the existing rules. The more selectors you combine the higher the specificity gets, because each selector adds additional points to your rule.  
+Remember to use higher specificity than the existing rules. 
+
+The more selectors you combine the higher the specificity gets, because each selector adds additional points to your rule.  
 
