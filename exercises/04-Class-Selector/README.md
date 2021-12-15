@@ -32,15 +32,12 @@ Use the value of the `class` attribute of any HTML element to select it. Styling
     font-size: 9px;
 }
 ```
-**Note:** 
 
 Any html tag with the attribute `class="small"` will have a font-size of 9px.
 
-# 📝 Instructions:
+## 📝 Instructions:
 
 Right now there is a class selector in the CSS that is called `.b-blue`. 
 
 1. Observe your css file
 2. Apply the existing rule to both `<p>` tags in the HTML document, by applying the appropriate class to them.
-
-

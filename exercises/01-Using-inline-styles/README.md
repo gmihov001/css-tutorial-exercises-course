@@ -1,7 +1,7 @@
 ---
 tutorial: "https://www.youtube.com/watch?v=rbtHLA813pU"
 ---
-# `01` Hello World in CSS
+# `01` Using Inline Styles
 
 CSS is about adding styles to our HTML elements. 
 

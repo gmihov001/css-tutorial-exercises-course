@@ -10,10 +10,11 @@
     "duration": 8,
     "difficulty": "easy",
     "video-solutions": true,
-    "graded": false,
+    "graded": true,
     "config": {
+        "disableGrading": true,
         "editor": {
-            "version": "1.0.69"
+            "version": "1.0.71"
         }
     }
 }

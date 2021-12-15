@@ -22,12 +22,11 @@ border: black 1px solid;
 1. Combina las 4 propiedades de padding una sola utilizando la propiedad "padding".
 2. Combina todas las propiedades de background, menos el background size, en una sola línea usando la propiedad "background:".
 
+2. Combina todas las reglas de background, menos el `background-size`, en una sola línea usando la regla `background:`.
 
-*Nota:**
+*El `background-size` no se puede combinar, los navegadores aún no lo admiten.*
 
- El background size no se puede combinar, los navegadores aún no lo admiten.\*\*
-
-### Pista:
+## Pista:
 
 - Como usar el background-size: http://lmgtfy.com/?q=css+background
 - Como usar el padding: http://lmgtfy.com/?q=css+padding

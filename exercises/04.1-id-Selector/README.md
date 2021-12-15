@@ -22,7 +22,7 @@ In the example below, we have selected the id `my_number_one` to apply font size
 Following the example, add the id `button1` to the `<span>` tag and compile to check the result in your browser.
 
 
-**Note:**
+Use the `id` property of the HTML element to select it. `Ids` should be unique, only one element must have the same ìd`.
 
  Generally IDs are not ideal for CSS selectors. You can find out why in the article below:
 
