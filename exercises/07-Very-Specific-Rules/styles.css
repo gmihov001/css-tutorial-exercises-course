@@ -1,15 +1,16 @@
 /** Insert your code here **/
 
+
+
 /*********** READ ONLY BLOCK ******
 You CAN NOT UPDATE anything from here on,
-only add lines of code on top of this lines
+only add code above these lines
 **/
 
 body {
 	color: blue;
 }
 
-ul li,
-ol li {
+ul li, ol li {
 	color: green;
 }
