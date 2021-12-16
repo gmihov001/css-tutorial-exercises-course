@@ -1,6 +1,6 @@
 # `09` 3D Anchor Styles
 
-People like to feel that they are clicking on something, a great approach to accomplish that is by faking a 3D effect. To do so, designers normally play with the borders, for example:
+People like to feel that they are clicking on something - a great approach to accomplish that is by faking a 3D effect. To do so, designers normally play with the borders, for example:
 
 ![Example Image](../../.learn/assets/09-1.png?raw=true)
 
@@ -15,9 +15,12 @@ a:active {
 
 ## 📝 Instructions:
 
-1. Change the border colors of the anchor,
-when being pressed, to the following:
+1. Change the border colors and apply shadow to the anchor, whenever it is being pressed, to the following:
 
 ```css
 border-color: #000 #aaa #aaa #000;
+box-shadow: 0 3px 5px gray;
 ```
+
+2. Understand the values of the box-shadow property:
+https://www.w3schools.com/css/css3_shadows_box.asp 
