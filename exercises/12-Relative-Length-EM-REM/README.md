@@ -1,8 +1,14 @@
 # `12` Relative Length em, rem
 
-By now, we are used to working with pixels as measurement unit, for example, saying that a box has `100px` of width.
+By now, we are used to working with pixels as measurement unit, for example, saying that a box has `100px` of width. 
 
-There are other types of units that are not fixed, but relative. We use them when we want the element size to be related to another element or measurement unit.
+You also saw the `vh` and `vw` units in a previous exercise, which are *relative* to the ***viewport*** (corresponding to the size of your browser windows).
+
+Relative units of measure are more superior than fixed units like pixels, because they help the website be more *responsive*, i.e. to adjust to the size of the screen.
+
+There are other types of units that are ***relative*** - `em` and `rem`. 
+
+We use them when we want the size of an element to be related to another element or measurement unit.
 
 ## Example using em:
 
